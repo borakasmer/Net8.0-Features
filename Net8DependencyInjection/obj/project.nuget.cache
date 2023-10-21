@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GfWWURuSsgFdab7v72jBC55MK8wzGrm4BCCI8Xr43KXnL9ls59DGuoAg2WOFIQ/s9BJLWDpSkvXAMwArcj3I5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\borakasmer\\source\\repos\\Net8DependencyInjection\\Net8DependencyInjection\\Net8DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\borakasmer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\borakasmer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\borakasmer\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\borakasmer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\borakasmer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\borakasmer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
